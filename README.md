@@ -1,2 +1,2 @@
-# packman-TUI-wraper
-A simple wrapper for manjaro package manager
+# pacman TUI wraper
+A simple TUI wraper for pacman (manjaro package manajer)
